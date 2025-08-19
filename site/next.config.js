@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Zapfmeisters KASM Registry',
     description: 'An unofficial store for Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://zapfmeister.github.io/kasm-registry/',
     contactUrl: 'https://github.com/Zapfmeister/kasm-registry',
   },
   reactStrictMode: true,
