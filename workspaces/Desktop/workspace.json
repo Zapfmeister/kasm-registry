@@ -15,7 +15,7 @@
   "compatibility": [
     {
       "version": "1.17.x",
-      "image": "zapfmeister/desktop:1.9.12",
+      "image": "zapfmeister/kasm-desktop:1.9.12",
       "uncompressed_size_mb": 2070,
       "available_tags": [
         "1.9.12",
