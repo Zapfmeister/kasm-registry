@@ -15,9 +15,10 @@
   "compatibility": [
     {
       "version": "1.17.x",
-      "image": "zapfmeister/obsidian:latest",
+      "image": "zapfmeister/obsidian:1.9.12",
       "uncompressed_size_mb": 1340,
       "available_tags": [
+        "1.9.12",
         "1.9.10"
       ]
     }
